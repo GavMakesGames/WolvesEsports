@@ -32,7 +32,7 @@ Images: https://imgur.com/a/OmETs4U
     position: absolute;
     width: 55px;
     height: 55px;
-    background: url(ps4-assets/face.svgz);
+    background: url(facemod.png);
 }
 
 .ds4 .button.pressed {
@@ -61,6 +61,7 @@ Images: https://imgur.com/a/OmETs4U
     background-position: 55px 0;
     left: 58px;
 }
+
 
 .ds4 .stick {
     position: absolute;
