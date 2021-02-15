@@ -3,7 +3,7 @@ Images: https://imgur.com/a/OmETs4U
 */
 
 /*BEGIN PS4 Controller Styling*/
-.controller.ds4 {
+.custom .controller.ds4 {
     background: url('https://svgshare.com/i/U3c.svg');
     height: 598px;
     width: 806px;
@@ -11,7 +11,7 @@ Images: https://imgur.com/a/OmETs4U
         margin-top: -280px;*/
 }
 
-.ds4.disconnected {
+.custom .ds4.disconnected {
     background: url(ps4-assets/disconnected.svgz);
 }
 
@@ -26,7 +26,7 @@ Images: https://imgur.com/a/OmETs4U
     left: 109px;
 }
 
-.ds4 .trigger {
+.custom .ds4 .trigger {
     width: 99px;
     height: 100%;
     background: url(ps4-assets/triggers.svgz);
@@ -42,7 +42,7 @@ Images: https://imgur.com/a/OmETs4U
     background-position-x: 99px;
 }
 
-.ds4 .bumper {
+.custom .ds4 .bumper {
     width: 99px;
     height: 23px;
     background: url(ps4-assets/bumper.svgz) no-repeat;
@@ -201,7 +201,7 @@ background-position: 0 -70px;
 
 .ds4 .stick {
     position: absolute;
-    background: url(ps4-assets/sticks.svgz);
+    background: url('https://svgshare.com/i/U2z.svg');
     height: 94px;
     width: 94px;
 }
