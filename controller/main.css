@@ -12,10 +12,6 @@ Images: https://imgur.com/a/OmETs4U
         margin-top: -280px;*/
 }
 
-.ds4.disconnected {
-    background: url(ps4-assets/disconnected.svgz);
-}
-
 .ds4 .trigger {
     width: 99px;
     height: 100%;
